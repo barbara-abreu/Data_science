@@ -9,3 +9,6 @@ Contents so far:
 
 
 -> Properties_in_Brazil notebook - Prediction of prices of real estate using multiple linear regression
+
+
+-> Flower classification notebook - Classification of flowers species using Logistic regression and SVM - Iris flower dataset
