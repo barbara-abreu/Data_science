@@ -12,3 +12,6 @@ Contents so far:
 
 
 -> Flower classification notebook - Classification of flowers species using Logistic regression and SVM - Iris flower dataset
+
+
+-> Regression with neural networks notebook - Prediction of prices of real estate using neural networks, but on a different dataset, this time are house prices from California
