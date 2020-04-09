@@ -15,3 +15,6 @@ Contents so far:
 
 
 -> Regression with neural networks notebook - Prediction of prices of real estate using neural networks, but on a different dataset, this time are house prices from California
+
+
+-> Covid-19 dataset notebook - Aanlysis of a dataset downloaded from kaggle.com and contains the covid-19 cases until 23/3/20 for several countries.
