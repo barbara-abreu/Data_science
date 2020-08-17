@@ -4,6 +4,8 @@ Repository with jupyter notebooks with some data science exercises and dummy pro
 
 Contents so far:
 
+-> Scraping and regression - Scraping of a real estate website and consequent regression of the price of the houses on the remaining variables.
+
 
 -> Titanic notebook - Prediction of survival rates using decision trees
 
