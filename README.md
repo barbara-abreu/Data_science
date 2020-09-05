@@ -4,6 +4,9 @@ Repository with jupyter notebooks with some data science exercises, dummy proble
 
 Contents so far:
 
+### Crytocurrencies
+A notebook with an analysis of a hypothetical portofolio with crytocurrencies only.
+
 ### Scraping and regression notebook 
 Scraping of a real estate website and consequent regression of the price of the houses on the remaining variables.
 
