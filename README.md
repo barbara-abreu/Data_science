@@ -4,6 +4,9 @@ Repository with jupyter notebooks with some data science exercises, dummy proble
 
 Contents so far:
 
+### ETFs portfolio notebook
+A notebook with an analysis of a hypothetical portofolio with american ETFs only.
+
 ### Crytocurrencies notebook
 A notebook with an analysis of a hypothetical portofolio with crytocurrencies only.
 
