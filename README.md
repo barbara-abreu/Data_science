@@ -10,10 +10,6 @@ A notebook with an analysis of a hypothetical portofolio with american ETFs only
 ### Crytocurrencies notebook
 A notebook with an analysis of a hypothetical portofolio with crytocurrencies only.
 
-### Scraping and regression notebook 
-Scraping of a real estate website and consequent regression of the price of the houses on the remaining variables.
-
-
 ### Titanic notebook 
 Prediction of survival rates in Titanic using decision trees
 
